@@ -1717,3 +1717,4 @@ Signed,
 - Basyrun Halim ([@annahl](https://github.com/annahl)), Software Engineer at [Terato Tech](http://teratotech.com), Malaysia
 - Des Dulianto ([@desdulianto](https://github.com/desdulianto)), System Administrator and Hobbyist Programmer, Indonesia
 - Gaurav Tiwari ([@LvnGDead](https://github.com/LvnGDead)), Student, Aspiring Android Developer
+- Lakshya Khattar ([@Lakshya221B](https://github.com/Lakshya-221b)), Student, Aspiring Android Developer
